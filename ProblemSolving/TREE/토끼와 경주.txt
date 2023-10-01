@@ -2,6 +2,9 @@ https://www.codetree.ai/training-field/frequent-problems/problems/rabit-and-race
 
 Q번의 명령
 
+
+(priority_queue) rabbit {id, 이동거리, 이동 횟수}
+
 (1) 최초 1회, {100 N M P pid_1 d_1 pid_2 d_2 ... pid_p d_p}
 [2 <= N, M <= 100,000]
 [1 <= P <= 2,000]

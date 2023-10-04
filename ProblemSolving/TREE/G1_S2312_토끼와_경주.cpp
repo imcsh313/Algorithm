@@ -1,6 +1,7 @@
 #include <iostream>
 #include <queue>
 #include <vector>
+#include <map>
 
 using namespace std;
 
@@ -16,6 +17,10 @@ struct rabbit
 	int movingCount;
 	position position;
 	int id;
+};
+
+struct disScr
+{
 	int dis;
 	long long score;
 };
@@ -56,8 +61,8 @@ int L; // 배가 되는 배수
 int finSum = 0; // 마지막에 더할 점수
 
 priority_queue<rabbit, vector<rabbit>, compareRabbit> AllAboutRabbit;
-vector<rabbit> moving_rabbit;
-int rabbitDistance[10000010] = 0;
+vector<rabbit> movingRabbit;
+map<int, disScr> rabbitDisScr;
 
 void func_100();
 void func_200();
@@ -123,7 +128,7 @@ void func_200()
 	{
 		// 토끼 선별
 		// nowRabbit에 저장 후 pop
-		// moving_rabbit에 토끼 추가
+		// movingRabbit에 토끼 추가
 		// 4개의 위치 구하기
 			// 벗어나면 뒤로 돌아오는 로직
 		// 위치 최종 선정
@@ -136,7 +141,7 @@ void func_200()
 		// nowRabbit push
 	}
 
-	// moving_rabbit 중 1등 선정
+	// movingRabbit 중 1등 선정
 	// 해당 토끼 수련회 점수 S 추가
 	
 	return;

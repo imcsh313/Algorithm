@@ -2,7 +2,8 @@ https://www.codetree.ai/training-field/frequent-problems/problems/rabit-and-race
 
 Q번의 명령
 
-(priority_queue) rabbit {이동 횟수, {행 + 열, 행, 열}, id, 이동해야 하는 거리, 점수}
+(priority_queue) rabbit {이동 횟수, {행 + 열, 행, 열}, id, 점수}
+rabbitDistance[id] = 거리 는 따로 관리 (3)함수
 [취소] (pq) moving_rabbit - 정렬은 반대로 + moving rabbit은 id가 안 겹....칠 이유가 없네? + pq일 이유도 없네..?
 [vector moving_rabbit -> 마지막에 정렬] => 이렇게 할 수 있는 방법은 없나..? 없겠지 ㅎㅎ
 vector moving_rabbit -> 완전탐색

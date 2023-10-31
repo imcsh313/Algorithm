@@ -1,4 +1,49 @@
 # Storage
 
-- 미완성 문서들이 있습니다.
+- 프로그래밍과 관련된 미완성 문서들이 있습니다.
+- 프로그래밍과 간접적으로 관련 있는 내용이 포함될 수 있습니다.
 - 간혹 비어있는 파일이 있을 수 있습니다.
+
+- 일정
+    - 2023.11.10.
+        - 면접 예상 일자
+    - 학습 목록
+        - SSAFY Youtube Live
+            - 10일간, 1일에 2주차
+        - SSAFY 계절학기 다시보기
+            - 11일간 1일에 1주제, 디자인 패턴-OOP-오리엔테이션은 2일간 
+                - Java 디자인 패턴 2
+                - 네트워크
+                - 운영체제
+                - 시큐어 코딩
+                - DB
+                - OOP, UML, Refactoring 2
+                - 서버관리
+                - 보안
+                - 오리엔테이션 2
+        - SSAFY 1학기 JAVA 다시보기
+            - 24일간, 1일에 4개, (JAVA-3, DB-1, Web(Front)-2, Web(Back)-2, DB 심화-1, SW문제해결기본-2, SW문제해결응용-3, SW문제해결응용-3, Framework Spring-3, Framework Vue.js-3, 관통 PJT-1)
+                - JAVA-10 (기본 문법 / 배열, Abstraction, Inheritance, Encapsulation, Polymorphism, Exception Handling, Collection, File / IO, XML 파싱, Java 적용 프로젝트)
+                - DB-3 (데이터 검색, DML, JDBC)
+                - SW문제해결기본-8 (알고리즘 입출력 / 재귀, 완전탐색 / 순열, 조합, 부분집합, Stack/Queue, LinkedList, Tree, Tree2)
+                - SW문제해결응용-11 (완전탐색 응용, 탐욕알고리즘, 분할정복, 백트레킹, 그래프1, 그래프2, 그래프3, 서로소집합, 최소신장트리,최단경로, 문제풀이)
+                - Web(Front)-7 (Web과 HTML, CSS, javascript, Event/JSON/WebStorage, Bootstrap, 비동기(AJAX), 화면설계 프로젝트)
+                - Web(Back)-6 (Servlet, JSP, MVC Pattern, JSTL/EL, WebMVC 종합실습, 프로젝트)
+                - SW문제해결응용-11 (동적계획법 1, 동적계획법 2, 동적계획법 3, 최장증가수열, 플로이드워샬, 문자열, 문제풀이 1, 집합과 조합론 / 기초수식, 기초알고리즘, 문제풀이 2, 알고리즘 적용 프로젝트)
+                - DB 심화-3 (DDL/Index/View,  join/subQuery 실습, DB 모델링 DB설계)
+                - Framework Spring-11 (Spring Architecture DI, AOP, Web MVC, Interceptor / fileUpload, myBatis, Spring - myBatis, REST API, Spring Boot, Swagger, Spring 종합 실습, Spring 프로젝트)
+                - Framework Vue.js-10 (ES6, Vue 개요 인스턴스/디렉티브, CSS 렌더링 이벤트 컴포넌트, Vue-CLI / NPM, Vue Router, Vue axios 비동기, Vue axios 비동기 심화, Vuex 활용, Vuex 활용 실습, Vue 적용 프로젝트)
+                - 관통 PJT
+        - 프로그래밍 도서
+        - B형 특강 다시 보기
+            - 
+        - [IT 트랜드 가이드 다시보기](https://docs.google.com/spreadsheets/d/1ZHjsZXaF0ofJ1vI_rgRX0-it-RSIyDyq8VNsDCFYO9E/edit#gid=80460844)
+            - 8일간, 1일에 1과목, 메타버스-블록체인 하루
+                - FE-40 BE-50 빅데이터-40 메타버스-30 블록체인-20 인공지능-40 클라우드-50 IoT-30 모바일-30 : 총합-330
+        - [CS 학습 가이드 다시보기](https://docs.google.com/spreadsheets/d/1-PWAPiml5uM64TN5nOLoxd2xJL92dxfP/edit#gid=584096923)
+            - 6일간, 2일에 1과목
+                - 자료구조-70 데이터베이스-70 알고리즘-60
+        - 기술 블로그 읽기
+            - [신 Line 기술 블로그](https://techblog.lycorp.co.jp/ko)
+            - [구 Line 기술 블로그](https://engineering.linecorp.com/ko)
+            - [우아한 블로그](https://techblog.woowahan.com/)

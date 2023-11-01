@@ -5,6 +5,13 @@
 - 간혹 비어있는 파일이 있을 수 있습니다.
 
 - 일정
+    - 2023.11.01
+        - [ ] 우수프로젝트 소개 올리기
+        - React는 JavaScript `라이브러리`, Vue.js는 JS `프레임워크` -> React가 개발의 자유도가 높다.
+        - [ ] 라이브러리란, 프레임워크란, 그 둘의 차이
+        - [ ] React란, Vue.js란, 그 둘의 차이
+        - [ ] Jenkins와 docker
+        - 역할은 나눠져 있지만 잘 소통한 팀
     - 2023.11.10.
         - 면접 예상 일자
     - 학습 목록
@@ -34,9 +41,11 @@
                 - Framework Spring-11 (Spring Architecture DI, AOP, Web MVC, Interceptor / fileUpload, myBatis, Spring - myBatis, REST API, Spring Boot, Swagger, Spring 종합 실습, Spring 프로젝트)
                 - Framework Vue.js-10 (ES6, Vue 개요 인스턴스/디렉티브, CSS 렌더링 이벤트 컴포넌트, Vue-CLI / NPM, Vue Router, Vue axios 비동기, Vue axios 비동기 심화, Vuex 활용, Vuex 활용 실습, Vue 적용 프로젝트)
                 - 관통 PJT
+        - SSAFY 1학기 Embedded 다시보기
         - 프로그래밍 도서
+            - 면접을 위한 CS 전공지식 노트
+            - 클린 코드
         - B형 특강 다시 보기
-        - 정처기 시험 문제집
         - [IT 트랜드 가이드 다시보기](https://docs.google.com/spreadsheets/d/1ZHjsZXaF0ofJ1vI_rgRX0-it-RSIyDyq8VNsDCFYO9E/edit#gid=80460844)
             - 8일간, 1일에 1과목, 메타버스-블록체인 하루
                 - FE-40 BE-50 빅데이터-40 메타버스-30 블록체인-20 인공지능-40 클라우드-50 IoT-30 모바일-30 : 총합-330
@@ -52,13 +61,21 @@
         - 직무 면접
             - 최근 관심있는 IT 기술
             - 프로젝트 관련 질문
+            - 인상적인 프로젝트
+                - 기업 연계 FDC 시스템 구축
         - 인성 면접
-            - 우수 프로젝트 소개 방송
             - 스트레스 해결 방법
                 - 단기는 성우, 장기는 미술관
-            - SSAFY 고민 상담 - 기억에 남는 사연
+            - 왜 비전공에서 전공으로? 왜 SSAFY?
+                - 학부연구생 -> 화공에서 하고 싶은 일을 컴공이면 더 할 수 있겠구나 -> 사실상 다르지 않다, 화공과 컴공은
+                - 인상적인 프로젝트
+                    - DogDack. 개발자로써 첫 프로젝트, 협업 도구 활용
         - 창의 면접
             - 창의적인 경험
                 - 프로젝트...
                 - 성우...
+    - 경험
+        - 우수 프로젝트 소개 방송
+        - SSAFY 고민 상담
+            - 기억에 남는 사연
             

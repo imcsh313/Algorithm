@@ -36,7 +36,7 @@
                 - 관통 PJT
         - 프로그래밍 도서
         - B형 특강 다시 보기
-            - 
+        - 정처기 시험 문제집
         - [IT 트랜드 가이드 다시보기](https://docs.google.com/spreadsheets/d/1ZHjsZXaF0ofJ1vI_rgRX0-it-RSIyDyq8VNsDCFYO9E/edit#gid=80460844)
             - 8일간, 1일에 1과목, 메타버스-블록체인 하루
                 - FE-40 BE-50 빅데이터-40 메타버스-30 블록체인-20 인공지능-40 클라우드-50 IoT-30 모바일-30 : 총합-330
@@ -47,3 +47,18 @@
             - [신 Line 기술 블로그](https://techblog.lycorp.co.jp/ko)
             - [구 Line 기술 블로그](https://engineering.linecorp.com/ko)
             - [우아한 블로그](https://techblog.woowahan.com/)
+        - 내 YouTube 다시보기
+    - 면접 질문
+        - 직무 면접
+            - 최근 관심있는 IT 기술
+            - 프로젝트 관련 질문
+        - 인성 면접
+            - 우수 프로젝트 소개 방송
+            - 스트레스 해결 방법
+                - 단기는 성우, 장기는 미술관
+            - SSAFY 고민 상담 - 기억에 남는 사연
+        - 창의 면접
+            - 창의적인 경험
+                - 프로젝트...
+                - 성우...
+            

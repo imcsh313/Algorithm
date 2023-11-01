@@ -13,6 +13,7 @@
         - React는 JavaScript `라이브러리`, Vue.js는 JS `프레임워크` -> React가 개발의 자유도가 높다.
     - [ ] Jenkins와 docker
     - [ ] 의존성이란
+    - [ ] CORS 오류란
 
 - 일정
     - 2023.11.01
